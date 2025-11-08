@@ -2,7 +2,7 @@
 
 👋 Bienvenue !
 
-Ce GitBook regroupe mes notes personnelles prises au fil de ma préparation à la certification Oracle Certified Professional: Java SE 21 Developer (OCP).\
+Ce GitBook regroupe mes notes personnelles prises au fil de ma préparation à la certification Oracle Certified Professional: Java SE 17 Developer (OCP).\
 
 
 L’objectif est triple :
@@ -15,7 +15,7 @@ L’objectif est triple :
 
 ### Avertissement
 
-Le contenu présenté ici reflète mon interprétation personnelle des sujets abordés dans la certification.
+Le contenu présenté ici ne représente que les éléments qui m'ont semblé personnellement pertitent à la réussite de l'examen.
 
 Il n’engage en rien mon employeur, ni aucune autre entité — uniquement moi.
 
@@ -23,13 +23,13 @@ Certaines sections peuvent contenir des erreurs ou imprécisions, malgré toute 
 
 Si vous en repérez ou souhaitez contribuer, les Pull Requests sont les bienvenues !
 
-Vous pouvez me contacter directement via [mon profil GitHub](https://github.com/KitanoB)![Attachment.tiff](file:///Attachment.tiff).
+Vous pouvez me contacter directement via [mon profil GitHub](https://github.com/KitanoB).
 
 ***
 
-### À propos de la certification OCP Java 21
+### À propos de la certification OCP Java 17
 
-L’Oracle Certified Professional (OCP) pour Java 21 est l’une des certifications les plus reconnues pour valider sa maîtrise du langage et de son écosystème moderne.
+L’Oracle Certified Professional (OCP) pour Java 17 est l’une des certifications les plus reconnues pour valider sa maîtrise du langage et de son écosystème moderne.
 
 Elle évalue notamment :
 
@@ -65,8 +65,6 @@ Pour obtenir la certification :
 
 Ce GitBook est un travail ouvert.
 
-Si vous souhaitez corriger, compléter ou enrichir une section :
-
-Ouvrez une PR ou une issue sur [GitHub](https://github.com/KitanoB)![Attachment.tiff](file:///Attachment.tiff) — toute contribution est la bienvenue !
+Si vous souhaitez corriger, compléter ou enrichir une section, toute contribution est la bienvenue !
 
 ***
