@@ -9,3 +9,10 @@
 * [Packages](chapitre-1-building-blocks/packages.md)
 * [Création d'objet](chapitre-1-building-blocks/creation-dobjet.md)
 * [Les types de données](chapitre-1-building-blocks/les-types-de-donnees.md)
+
+## Group 1
+
+* [2️⃣ CHAPITRE  2 - OPERATORS](group-1/chapitre-2-operators/README.md)
+  * [Comprendre les opérators](group-1/chapitre-2-operators/comprendre-les-operators/README.md)
+    * [Exercices Operateurs](group-1/chapitre-2-operators/comprendre-les-operators/exercices-operateurs.md)
+    * [Exercices Operateurs plus durs](group-1/chapitre-2-operators/comprendre-les-operators/exercices-operateurs-plus-durs.md)
